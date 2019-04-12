@@ -1,0 +1,51 @@
+﻿html, body {
+font-family: "Roboto", sans-serif;
+font-size: 18px;
+    text-align: center;
+    min-width: 250px;
+    color: blue;
+}
+
+#main {
+    margin: 30px auto;
+    padding: 15px;
+    border: 0px solid;
+    border-radius: 5px;
+    background-color: white;
+}
+
+img {
+    max-width: 400px;
+    display: block;
+    height: auto;
+    margin: auto;
+}
+
+#img-div {
+    margin: -5px;
+    margin-top: 20px;
+}
+
+h1 {
+font-family: "Raileway", sans-serif;
+font-size: 32px;
+}
+
+h2 {
+    font-size: 26px;
+    font-family: "Raileway", sans-serif;
+}
+
+article, p {
+font-family: "Roboto", sans-serif;
+font-size: 18px;
+}
+
+ul, li {
+font-size: 18px;
+font-family: "Roboto", sans-serif;
+}
+
+a {
+    font-family: "Roboto", sans-serif;
+}
